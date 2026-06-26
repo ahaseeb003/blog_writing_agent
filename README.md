@@ -44,7 +44,7 @@ The system is built around a LangGraph StateGraph, defining a clear workflow for
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ahaseeb003/blog_writing_agent
 cd blog_writing_agent
 ```
 
